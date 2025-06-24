@@ -1,0 +1,602 @@
+[
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-24 23:56:00",
+    "close": 1.1604,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-24 23:57:00",
+    "close": 1.16027,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-24 23:57:00",
+    "close": 1.16027,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-24 23:57:00",
+    "close": 1.16027,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-24 23:57:00",
+    "close": 1.16027,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-24 23:57:00",
+    "close": 1.16027,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:00:00",
+    "close": 1.35823,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:01:00",
+    "close": 1.1607,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:02:00",
+    "close": 1.16075,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:32:00",
+    "close": 1.15843,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:32:00",
+    "close": 1.15843,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:32:00",
+    "close": 1.15843,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:33:00",
+    "close": 1.1589,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:33:00",
+    "close": 1.1589,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:33:00",
+    "close": 1.1589,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:34:00",
+    "close": 1.15921,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:34:00",
+    "close": 1.15921,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:34:00",
+    "close": 1.15921,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:35:00",
+    "close": 1.15966,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:35:00",
+    "close": 1.15966,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:35:00",
+    "close": 1.15966,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:35:00",
+    "close": 1.15966,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:36:00",
+    "close": 1.15937,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:36:00",
+    "close": 1.15937,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:36:00",
+    "close": 1.15937,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:36:00",
+    "close": 1.15937,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:37:00",
+    "close": 1.15943,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:37:00",
+    "close": 1.15943,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:37:00",
+    "close": 1.15943,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:37:00",
+    "close": 1.15943,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:37:00",
+    "close": 1.15943,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:38:00",
+    "close": 1.15931,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:38:00",
+    "close": 1.15931,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:38:00",
+    "close": 1.15931,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:38:00",
+    "close": 1.35739,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:38:00",
+    "close": 1.15931,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:39:00",
+    "close": 1.15972,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:39:00",
+    "close": 1.15972,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:39:00",
+    "close": 1.15972,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:39:00",
+    "close": 1.15972,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:40:00",
+    "close": 1.15972,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:40:00",
+    "close": 1.15972,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:40:00",
+    "close": 1.15972,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:40:00",
+    "close": 1.15972,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:41:00",
+    "close": 1.15991,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:41:00",
+    "close": 1.15991,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:41:00",
+    "close": 1.15991,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:41:00",
+    "close": 1.15991,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:42:00",
+    "close": 1.15977,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:42:00",
+    "close": 1.15977,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:42:00",
+    "close": 1.15977,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:42:00",
+    "close": 1.15977,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:43:00",
+    "close": 1.15973,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:43:00",
+    "close": 1.15973,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:43:00",
+    "close": 1.15973,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:43:00",
+    "close": 1.15973,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:44:00",
+    "close": 1.15977,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:44:00",
+    "close": 1.15977,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:44:00",
+    "close": 1.15977,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:44:00",
+    "close": 1.15977,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:44:00",
+    "close": 1.15977,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:44:00",
+    "close": 1.15977,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:45:00",
+    "close": 1.15959,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:45:00",
+    "close": 1.15959,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:45:00",
+    "close": 1.15959,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:46:00",
+    "close": 1.15956,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:46:00",
+    "close": 1.15956,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:46:00",
+    "close": 1.15956,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:46:00",
+    "close": 1.15956,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:47:00",
+    "close": 1.15944,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:47:00",
+    "close": 1.35775,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:47:00",
+    "close": 1.35775,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:47:00",
+    "close": 1.15944,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:47:00",
+    "close": 1.15944,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:47:00",
+    "close": 1.15944,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:47:00",
+    "close": 1.35775,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:48:00",
+    "close": 1.35777,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:48:00",
+    "close": 1.15933,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:48:00",
+    "close": 1.15933,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:48:00",
+    "close": 1.15933,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:49:00",
+    "close": 1.35772,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:49:00",
+    "close": 1.15934,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:49:00",
+    "close": 1.15934,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:49:00",
+    "close": 1.15934,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:50:00",
+    "close": 1.35777,
+    "signal": "HOLD"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:50:00",
+    "close": 1.1594,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:50:00",
+    "close": 1.1594,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:50:00",
+    "close": 1.1594,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:51:00",
+    "close": 1.3577,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:51:00",
+    "close": 1.15937,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:51:00",
+    "close": 1.15937,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:52:00",
+    "close": 1.35775,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:52:00",
+    "close": 1.1593,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:52:00",
+    "close": 1.1593,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:52:00",
+    "close": 1.1593,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:53:00",
+    "close": 1.35698,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:53:00",
+    "close": 1.15868,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:53:00",
+    "close": 1.15868,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "EUR/USD",
+    "time": "2025-06-25 00:53:00",
+    "close": 1.15868,
+    "signal": "SELL"
+  },
+  {
+    "symbol": "GBP/USD",
+    "time": "2025-06-25 00:54:00",
+    "close": 1.35693,
+    "signal": "SELL"
+  }
+]
